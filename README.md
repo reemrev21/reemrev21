@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?color=a28fc7&height=400&text=Hi_There_👋&animation=twinkling&fontSize=100&fontColor=d2d2d2&fontAlignY=40)
 
 #### 웹 프론드엔드 개발자 이승민 입니다. 
 #### 제가 잘 할 수 있는 것들은 <code>react</code>, <code>typescript</code>, <code>javascript</code>, <code>html5</code>, <code>css</code> 등 앞으로 더 늘어날 예정입니다.
@@ -9,4 +8,3 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freemrev21&count_bg=%2361655E&title_bg=%23E2ABAB&icon=smugmug.svg&icon_color=%23FFFEFE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=a28fc7)
